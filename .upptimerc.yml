@@ -7,8 +7,6 @@ sites:
     url: https://jellyfin.dmpstr.top
   - name: Authentik
     url: http://ak.dmpstr.top
-  - name : Cockpit
-    url: https://cockpit.dmpstr.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
