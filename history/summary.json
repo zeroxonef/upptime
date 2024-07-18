@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.dmpstr.top.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "76.30%",
-    "uptimeDay": "76.30%",
-    "uptimeWeek": "76.30%",
-    "uptimeMonth": "76.30%",
-    "uptimeYear": "76.30%",
-    "time": 2229,
-    "timeDay": 2229,
-    "timeWeek": 2229,
-    "timeMonth": 2229,
-    "timeYear": 2229,
+    "uptime": "20.26%",
+    "uptimeDay": "20.26%",
+    "uptimeWeek": "20.26%",
+    "uptimeMonth": "20.26%",
+    "uptimeYear": "20.26%",
+    "time": 1948,
+    "timeDay": 1948,
+    "timeWeek": 1948,
+    "timeMonth": 1948,
+    "timeYear": 1948,
     "dailyMinutesDown": {
-      "2024-07-17": 77
+      "2024-07-18": 144,
+      "2024-07-17": 836
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ak.dmpstr.top.ico",
     "slug": "authentik",
     "status": "down",
-    "uptime": "76.24%",
-    "uptimeDay": "76.24%",
-    "uptimeWeek": "76.24%",
-    "uptimeMonth": "76.24%",
-    "uptimeYear": "76.24%",
-    "time": 2621,
-    "timeDay": 2621,
-    "timeWeek": 2621,
-    "timeMonth": 2621,
-    "timeYear": 2621,
+    "uptime": "20.24%",
+    "uptimeDay": "20.24%",
+    "uptimeWeek": "20.24%",
+    "uptimeMonth": "20.24%",
+    "uptimeYear": "20.24%",
+    "time": 2282,
+    "timeDay": 2282,
+    "timeWeek": 2282,
+    "timeMonth": 2282,
+    "timeYear": 2282,
     "dailyMinutesDown": {
-      "2024-07-17": 77
+      "2024-07-18": 144,
+      "2024-07-17": 836
     }
   }
 ]
