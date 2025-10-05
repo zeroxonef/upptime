@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.dmpstr.top.ico",
     "slug": "status",
     "status": "down",
-    "uptime": "17.42%",
+    "uptime": "17.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.32%",
+    "uptimeYear": "0.04%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 280,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-04": 55,
+      "2025-10-05": 63,
+      "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -379,8 +380,7 @@
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
-      "2024-10-06": 1440,
-      "2024-10-05": 1153
+      "2024-10-06": 1440
     }
   }
 ]
